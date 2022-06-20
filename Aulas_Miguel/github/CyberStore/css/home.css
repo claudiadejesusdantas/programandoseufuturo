@@ -1,0 +1,61 @@
+/*Reset CSS Body*/
+
+body {
+    margin: none;
+    border: none;
+    padding: none;
+    background: linear-gradient(to right, #000046, #1cb5e0);
+
+}
+
+main { 
+    width: 100%;
+    height: 100%;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+img {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.produtos-semana {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.produto {
+    color: blueviolet;
+    margin: 5%;
+
+}
+
+.descricao {
+    text-align: center;
+    font-size: 16px;
+    color: bisque;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    border:none;
+    border-radius: 5px;
+    background: linear-gradient(rgb(62, 62, 168),rgb(111, 111, 202),black);
+}
+

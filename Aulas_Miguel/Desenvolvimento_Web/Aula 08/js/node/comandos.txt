@@ -1,0 +1,15 @@
+CRIANDO PRIMEIRA API COM NODE + EXPRESS
+
+INSTALAÇÃO DO EXPRESS
+
+NPM - Node Package Manager (Gerenciador de Pacotes do Node)
+
+- npm install express
+
+MÉTODOS HTTP
+
+-CRUD ---|--- HTTP ---|--- SQL ---|---
+-CREATE ---|--- POST ---|--- INSERT ---|---
+-READ ---|--- GET ---|--- SELECT ---|---
+-UPDATE ---|--- PUT ---|--- UPDATE ---|---
+-DELETE ---|--- DELETE ---|--- DELETE ---|---

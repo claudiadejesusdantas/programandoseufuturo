@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3> EXERCÍCIO - PORCENTAGEM </h3>
+    <input id= "input1" type="number">
+    <input id= "input2" type="number">
+
+    <br>
+
+    <button onclick="Porcentagem()">porcentagem</button>
+    <div id="resultado"></div>
+
+    
+</body>
+<script>
+    function Porcentagem() {
+        var input1 = document.getElementById('input1')
+        var input2 = document.getElementById('input2')
+        var resultado = document.getElementById('resultado')
+
+        var n1 = Number(input1.value)
+        var n2 = Number(input2.value)
+        var resultadoPorcentagem = n1*n2/100
+        resultado.innerHTML = resultadoPorcentagem
+    }
+    
+</script>
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+    var listaNomes = []
+
+    var nome1 = String(prompt('Digite o primeiro nome'))
+    var nome2 = String(prompt('Digite o segundo nome'))
+    var nome3 = String(prompt('Digite o terceiro nome'))
+    var nome4 = String(prompt('Digite o quarto nome'))
+
+    listaNomes.push(nome1,nome2,nome3,nome4)
+    document.writeln('<br>-------------------Array Inicial-----------------<br>')
+    document.writeln(listaNomes)
+
+    //Mostrar tamanho do array
+    document.writeln('<br>------------------------------------<br>')
+    document.writeln('<br>-------------------Tamanho do Array-----------------<br>')
+    document.writeln(listaNomes.length)
+
+    //Mostrar array ordenado
+    document.writeln('<br>------------------------------------<br>')
+    document.writeln('<br>-------------------Array Ordenado-----------------<br>')
+    document.writeln(listaNomes.sort())
+
+
+    //Mostrar array com novos elementos
+    document.writeln('<br>------------------------------------<br>')
+    document.writeln('<br>-------------------Array com Push-----------------<br>')
+    var nome5 = String(prompt('Digite o quinto nome'))
+    listaNomes.push(nome5)
+    document.writeln(listaNomes)
+
+
+    //Mostrar array sem elemento nenhum
+    document.writeln('<br>------------------------------------<br>')
+    document.writeln('<br>-------------------Array sem elementos-----------------<br>')
+    
+    listaNomes.splice(listaNomes)
+    document.writeln(listaNomes)
+
+
+</script>
+</html>
