@@ -1,1 +1,36 @@
-# programando-seu-futuro
+# Curso: Programando Seu Futuro
+
+Curso de programação feito em parceria com professores e equipe de educadores voluntários da Associação _Vestibulandos da Cidadania_, na infraestrutura e apoio administrativo-pedagógico do Instituto Federal - Campus Itaquaquecetuba.
+
+
+
+## Curso: INGLÊS
+### Professor: Evair de Jesus
+
+* [Aula: *1 e 2*.](https://github.com/claudiadejesusdantas/programando-seu-futuro/blob/main/Aulas_Evair/Apresenta%C3%A7%C3%A3o%201%20e%202%20_Professor%20Evair%20Ingl%C3%AAs.pdf)
+
+* [Aula: *6 e 7*.](https://github.com/claudiadejesusdantas/programando-seu-futuro/blob/main/Aulas_Evair/Apresenta%C3%A7%C3%A3o%206%20e%207%20_Professor%20Evair%20Ingl%C3%AAs%201%2009052022.pdf)
+
+
+* [Aula: *8 e 9*.](https://github.com/claudiadejesusdantas/programando-seu-futuro/blob/main/Aulas_Evair/Apresenta%C3%A7%C3%A3o%208%20e%209%20_Professor%20Evair%20Ingl%C3%AAs.pdf)
+
+
+## Curso: PROGRAMAÇÃO I
+### Professor: Mateus Ribeiro
+
+* [Aulas sobre lógica de programação com *Portugol*.](https://github.com/claudiadejesusdantas/EstudosDePortugol_ProgramandoSeuFuturo2022)
+
+* [Aulas sobre *JAVA*](https://github.com/claudiadejesusdantas/programando-seu-futuro/tree/main/Aulas_Mateus/Curso_Java)
+
+* [IMAGEM: Aula de *operadores relacionais*.](https://github.com/claudiadejesusdantas/programando-seu-futuro/blob/main/Aulas_Mateus/operadores_relacionais_marco2022.jpeg)
+
+
+## Curso: PROGRAMAÇÃO II
+### Professor: Miguel Ribeiro
+
+* [Aula: *Laço de repetição*.]()
+* [Aulas de *HTML*, *JS* e *CSS* - 1.](https://github.com/claudiadejesusdantas/programando-seu-futuro/tree/main/Aulas_Miguel/HTML-CSS)
+* [Aulas de *HTML*, *JS* e *CSS* - 2.](https://github.com/claudiadejesusdantas/programando-seu-futuro/tree/main/Aulas_Miguel/Desenvolvimento_Web)
+* [Aulas de *HTML*, *JS* e *CSS* - 3.](https://github.com/claudiadejesusdantas/programando-seu-futuro/tree/main/Aulas_Miguel/aulas_js/HTML-CSS)
+* [Aulas de *HTML*, *JS* e *CSS* - 4.](https://github.com/claudiadejesusdantas/programando-seu-futuro/tree/main/Aulas_Miguel/github/CyberStore)
+* [Aula de *API*.](https://github.com/claudiadejesusdantas/programando-seu-futuro/tree/main/Aulas_Miguel/segunda-api-node)
